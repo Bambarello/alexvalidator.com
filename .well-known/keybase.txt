@@ -1,0 +1,75 @@
+==================================================================
+https://keybase.io/bambarello
+--------------------------------------------------------------------
+
+I hereby claim:
+
+  * I am an admin of https://alexvalidator.com
+  * I am bambarello (https://keybase.io/bambarello) on keybase.
+  * I have a public key with fingerprint 5B2E FEC4 6D2B 4C67 B26B  944E A713 F5C0 7C45 3731
+
+To do so, I am signing this object:
+
+{
+  "body": {
+    "key": {
+      "eldest_kid": "0120f336f508f60bb58179cf0d16db4879119e9781abb26e052e4ba6bce19eeacf100a",
+      "fingerprint": "5b2efec46d2b4c67b26b944ea713f5c07c453731",
+      "host": "keybase.io",
+      "key_id": "a713f5c07c453731",
+      "kid": "0101f5081c4b1f2f52ca3a362e72bc9f0d262cb6287bea809f04aba9add904c459790a",
+      "uid": "a873ecfc5c258d0972602524a73a6519",
+      "username": "bambarello"
+    },
+    "service": {
+      "hostname": "alexvalidator.com",
+      "protocol": "https:"
+    },
+    "type": "web_service_binding",
+    "version": 1
+  },
+  "ctime": 1709839169,
+  "expire_in": 157680000,
+  "prev": "664f3be4bd5711f5ca7f17091e3dc78fbea43def9253536ab12a27c89b1ed4a6",
+  "seqno": 41,
+  "tag": "signature"
+}
+
+which yields the signature:
+
+-----BEGIN PGP MESSAGE-----
+Version: Keybase OpenPGP v2.1.13
+Comment: https://keybase.io/crypto
+
+yMN0AnicbVJtUFRVGF5AGFpLUT5sHAznYhlfer8/dhKwMcESCjFtm43tnHvPxSvL
+Xrq7LBDyIYEyrtgMjiiUOZQtTinZJGbMNIkSzKQiO4BTESO4INVUCIxENjTdS/qv
+8+fMec7zPO/zvud0PxFiMge1Rd6/vO8Fjgi61nWq2IR+jdxcjkFVKsMs5VgBWtyQ
+Q0Iut71AkTALhhMkLlMUKzM4L7M4hAxPcIIo4xLBSpDmOYEgBCRwPAEgJFmEMySi
+IWChiHQcAVEmcBxgyZisOPORVqQpTrduy0ASyUikWYmEtMhyuhQKNI0AR1AyI+Kc
+SDMURxG6cI/qMhR6OAhcaIOi6ph+sC/G+x/+o9w4YWQmRBoSMikzpAgoQLEk4kgo
+Cnp+kiVFyJI8BxHgcR2hAQQCkCQBp3U3gRMWcxf/V4fnKCTKIiOSDC/hAkeyOMmQ
+NOAowDKEYBBdSHOCQqSzISiEQEMOh4pVJGM67lFEZIzW6OUhBzhQqQc4FAm4VW2D
+qBbqFkWa6lZF1aFf73G7i1wWQ+4uKzL4JQjaHzrZoeKU9HHqCg/SXIrqxCyEzhTd
+imFNcLjAUwLBCskYKi1SNGRXDAbDsTyuL6MO8uiWLEvLFNSfS2I4Qp+WCDjZEBOI
+kkSOl/XB0JSEZIFkKIZiASRIQHIiL0ACSTRgMaO3t5wqZqEJPSfI1z1dSr4TuIs1
+hFVc6bItMQWZTWGhwcY/M5kfi3j0+0Yql/+zKVM4Yo44cfvFHl9U2jMZCUN96y/F
+rRiM6VHV2jvfXNsbMhvuO/1uSHBj599VgezEvl7vWGXmQtgNW/f5kdvHJ8uy0t+2
+ltTCdq8ttGe8o3oyOykwF0r8WTHvvd7zzuuxHCsmHa9/eVnLmqbmfs/nCwr2U8F8
+xERuTYz5avP7T1ZMaN+Td3/3sjmH/9KCdl3cObzbVbWypfCX8w1jh2dwn3upsL+r
+JT3J9u3R6oYDqPhcfKP97njNV8i3fsfwvv7CNtPI06vSchLqPm2vr/JPbYub9Obc
+tL5Jdl5+vrp4TUbmF74tzNkUaurqa5N1tqCIDHzZdOIPamDbzFqfLX7Bf8acD5vu
+hI92PZg6OrQidO2W1CxzmBfMbBq4kHrsx0+6sVWPJ7WmRpkjZn62vzQYHeydC15J
+v1ezc13fbwWO8e11MZNN97O37s96NbHeOvvZU0cSrgwNTGn3Wt8In204CD+4hxqr
+Ymf9twK2k1+m1z+bOHFIvdh5cNhTTV86s2N4Pnq1ZZ0p70FejPPj8hJ/AjN/zt97
+65WKU71nt8ebRi/sMrOto1NLrCnVfyROb8xNH7jusZ0MwPa0G2NzpYf2ZtZm+E73
+phPtTaujhxfyrB1YYNzeVo592N+TzYR+vTxyacp0Td3sdy0fCSj3WFvsjDVuS9lo
+x4nmLMdg5cJu/9bN+c9tvBn1Ly0bwwI=
+=+Jnh
+-----END PGP MESSAGE-----
+
+And finally, I am proving ownership of this host by posting or
+appending to this document.
+
+View my publicly-auditable identity here: https://keybase.io/bambarello
+
+==================================================================
